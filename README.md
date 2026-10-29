@@ -9,6 +9,7 @@ The skill already works. It plans by question, reuses saved evidence and keeps a
 | [SKILL.md](SKILL.md), [references/](references/) | The skill as it is today. The tag `original` marks this version. |
 | [assignment/TASK.md](assignment/TASK.md) | The revision task |
 | [assignment/TESTING.md](assignment/TESTING.md) | How to test the original and your revision on the same three tasks |
+| [assignment/sample-solution/](assignment/sample-solution/) | A sample solution: the revised [SKILL.md](assignment/sample-solution/SKILL.md) and its [DESIGN.md](assignment/sample-solution/DESIGN.md). Not tested yet. |
 | [LICENSE](LICENSE) | MIT |
 
 ## Install
